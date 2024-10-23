@@ -43,7 +43,7 @@
 <header>
     <h1>Aditya Gupta</h1>
     <p>B.Tech CSE - First Year</p>
-    <p>Email: aaadityagupta07@gmail.com | <br> LinkedIn: linkedin.com/in/adityaguptaa</p>
+    <p>Email: <a href="aaadityagupta07@gmail.com ">aaadityagupta07@gmail.com </a>| <br> LinkedIn: <a href="linkedin.com/in/adityaguptaa">aditya</a></p>
 </header>
 <section>
     <h2>About Me</h2>
