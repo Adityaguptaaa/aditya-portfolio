@@ -64,10 +64,7 @@
         <li>Web Development: HTML, CSS</li>   
     </ul>
 </section>
-<section>
-    <h2>Extracurricular Activities</h2>
-    <p>I am actively participating in coding clubs and hackathons to enhance my programming skills and teamwork abilities.</p>
-</section>
+
 
 
 </body>
