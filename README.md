@@ -43,7 +43,7 @@
 <header>
     <h1>Aditya Gupta</h1>
     <p>B.Tech CSE - First Year</p>
-    <p>Email: <a href="aaadityagupta07@gmail.com ">aaadityagupta07@gmail.com </a>| <br> LinkedIn: <a href="https://www.linkedin.com/in/aditya-gupta-065063326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">aditya</a></p>
+    <p>Email: <a href="mailto:aaadityagupta07@gmail.com ">aaadityagupta07@gmail.com </a>| <br> LinkedIn: <a href="https://www.linkedin.com/in/aditya-gupta-065063326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">aditya</a></p>
 </header>
 <section>
     <h2>About Me</h2>
